@@ -17,7 +17,7 @@ This repo consists a Realtime Chat Application built with the MERN stack.
 - Real-time messages - Socket.io
 
 ### Live Demo
-https://sweet-bombolone-176d6a.netlify.app
+[chat-app-kappa-wheat.vercel.app](https://chat-app-kappa-wheat.vercel.app/)
 
 ### Testing Account
 username: Lenny Connolly  
