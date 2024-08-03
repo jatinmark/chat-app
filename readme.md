@@ -26,6 +26,6 @@ password: 12345678
 username: Rachael Holloway  
 password: 12345678  
 
-### Walk Through video
+### Explanation Video
 
 [![Watch the video](https://raw.githubusercontent.com/jatinmark/chat-app/main/thumbnail.jpg)](https://raw.githubusercontent.com/jatinmark/chat-app/main/screen-capture.webm)
